@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is my personal profile. I am a student intrested in OSINT, open-souce and cyberseurity. 
+
 <!--
 **ColoursofOSINT/ColoursofOSINT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
