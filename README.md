@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-This is my personal profile. I am a student interested (my hobby) in OSINT, open-source software and cybersecurity. 
+This is my new personal profile. I am a student interested (my hobby) in OSINT, open-source software and cybersecurity. 
+
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ColoursofOSINT&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ColoursofOSINT&langs_count=5&theme=tokyonight)]()
 <!--
