@@ -6,7 +6,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coloursofosint/coloursofosint/snake/github-contribution-grid-snake.svg">
 </picture>
 
-[![](https://visitcount.itsvg.in/api?id=coloursofosint&label=Profile%20Views&color=6&icon=9&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ColoursofOSINT&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 | My GitHub Stats | My GitHub Language Stats | 
 | -- | -- | 
