@@ -26,7 +26,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       # push the content of dist to the snake branch
-      # the content will be available at https://raw.githubusercontent.com/adil192/adil192/snake/dist/*.svg
+      # the content will be available at https://raw.githubusercontent.com/ColoursofOSINT/ColoursofOSINT/snake/dist/*.svg
       - name: push github-contribution-grid-snake.svg to the snake branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
