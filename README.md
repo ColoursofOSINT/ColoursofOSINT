@@ -3,14 +3,13 @@
 </a> 
 
 # ColoursofOSINT
-- 💻 Contributor to Free (as in Freedom) and open-source software
-- 🏫 Biochemistry Major
-- 📫 How to reach me: [Email](mailto:coloursofosint@coloursofosint.com)
+- 💻 Contributing to free (as in freedom) and open-source software
+- 🔒 Intrested in privacy and security   
+- 🏫 Majoring in Biochemistry
+- 📫 Reach me by [email](mailto:coloursofosint@coloursofosint.com)
 - 👀 Vist my [website](coloursofosint.com)
 
 # My Stats
-
-
 
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ColoursofOSINT&count_private=true&theme=tokyonight&showicons=true)]() 
 
