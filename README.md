@@ -4,7 +4,7 @@
 
 # ColoursofOSINT
 - 💻 Contributing to free (as in freedom) and open-source software
-- 🔒 Intrested in privacy and security   
+- 🔒 Interested in privacy and security   
 - 🏫 Majoring in Biochemistry
 - 📫 Reach me by [email](mailto:coloursofosint@coloursofosint.com)
 - 👀 Vist my [website](coloursofosint.com)
