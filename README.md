@@ -7,7 +7,7 @@
 - 🔒 Interested in privacy and security   
 - 🏫 Majoring in Biochemistry
 - 📫 Reach me by [email](mailto:coloursofosint@coloursofosint.com)
-- 👀 Vist my [website](coloursofosint.com)
+- 👀 Visit my [website](coloursofosint.com)
 
 # My Stats
 
