@@ -6,7 +6,7 @@
 - 💻 Contributing to free (as in freedom) and open-source software
 - 🔒 Interested in privacy and security   
 - 🏫 Majoring in Biochemistry
-- 📫 Reach me by [email](mailto:coloursofosint@coloursofosint.com)
+- 📫 Reach me by email
 - 👀 Visit my [website](https://coloursofosint.com)
 
 # My Stats
