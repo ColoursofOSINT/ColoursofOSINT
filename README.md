@@ -7,8 +7,7 @@
 - 🔒 Interested in privacy and security   
 - 🏫 Majoring in Biochemistry
 - 📫 Reach me by email
-- 👀 Visit my [website](https://coloursofosint.com)
-
+- 👀 Visit my [website](https://archmail.org)
 # My Stats
 
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ColoursofOSINT&count_private=true&theme=tokyonight&showicons=true)]() 
