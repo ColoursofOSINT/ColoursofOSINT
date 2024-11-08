@@ -1,5 +1,5 @@
  <a href="https://coloursofosint.com">
-  <img src="https://raw.githubusercontent.com/ColoursofOSINT/ColoursofOSINT/main/assests/white-Colours%20of%20OSINT.jpg" alt="Logo" style="width:195px;height:195px;" <img align="right">
+  <img src="https://raw.githubusercontent.com/ColoursofOSINT/ColoursofOSINT/main/assests/Man.jpg" alt="Logo" style="width:195px;height:195px;" <img align="right">
 </a> 
 
 # ColoursofOSINT
