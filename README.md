@@ -5,7 +5,6 @@
 # ColoursofOSINT
 - 💻 Contributing to free (as in freedom) and open-source software
 - 🔒 Interested in privacy and security   
-- 🏫 Majoring in Biochemistry
 - 📫 Reach me by email
 - 👀 Visit my [website](https://archmail.org)
 # My Stats
@@ -20,5 +19,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coloursofosint/coloursofosint/snake/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coloursofosint/coloursofosint/snake/github-contribution-grid-snake.svg">
 </picture>
-
+- 🏫 Majoring in Biochemistry
 --> 
